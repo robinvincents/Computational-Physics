@@ -1,10 +1,5 @@
 using Random
 
-
-
-
-
-
 function HoshenKopelman(L,p)
 
 
